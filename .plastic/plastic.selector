@@ -1,0 +1,4 @@
+repository "BotHoops"
+  path "/"
+    br "/main"
+    co "/main"
